@@ -3,6 +3,6 @@ Algoritmo zuma
 	n1=5
 	n2=7
 	mostrar n1+n2
-	
+	mostrar n1*n2
 	
 FinAlgoritmo
